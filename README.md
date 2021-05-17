@@ -59,18 +59,9 @@ If the number of blocks mined from your bet is greater than or equal to that exp
 ---------------------------
 # PART CODE
 --------------------
-Licence
-    // SPDX-License-Identifier: MIT
-Version
-    pragma solidity ^0.8.0;
-Openzeplin contract
-    import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Address.sol";
 
-    /**
-     * @title The_King_Of_The_Hill
-     * @dev Game with a lot of ETH
-     */
-Contract
+Contract :
+
     contract The_King_Of_The_Hill {
     
         using Address for address payable;
