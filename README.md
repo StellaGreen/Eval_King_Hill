@@ -16,7 +16,7 @@ Want to be the creator of a betting game that will earn you *10%* of everything 
 2. Go on **DEPLOY** and enter your wallet address on **OWNERFIRST_**
 3. Choose how many mining blocks separate the last bet from the winning mining block in **HOWMANYBLOCK_** !
 >(it is recommended to choose restricted numbers for a test but between 8 and 16 blocks for a real game)
-![Notice for deployeur on remix.ethereum](deployeur.png)
+![Notice for deployeur on remix.ethereum](img/deployeur.png)
 
 
 # IN SECOND
@@ -30,15 +30,15 @@ So come and challenge the web! the principle is simple:
     (the difference will always be yours)
 ![exemple](img/valuefornewking.png)
 ![exemple](img/thekingisme.png)
-* To find out you just have to question the button **BLOCKTOURCHOOSE** to find out the number of blocks chosen by the game developer
+* To find out you just have to question the button **BLOCKTOURCHOOSE** to find out the number of blocks chosen by the game developer.
 ![exemple](img/blocktourchoose.png)
-* And the button **GETNUMBERBLOCK** which will tell you how many blocks have passed since your bet
+* And the button **GETNUMBERBLOCK** which will tell you how many blocks have passed since your bet.
 ![exemple](img/getnumberblock.png)
-* To find out how much is in bet then press the **GETGAIN** button
+* To find out how much is in bet then press the **GETGAIN** button.
 ![exemple](img/getgain.png)
-* To find out who is the king of the hill press the button **HOWISTHEKING**
+* To find out who is the king of the hill press the button **HOWISTHEKING**.
 ![exemple](img/howistheking.png)
-If the number of blocks mined from your bet is greater than or equal to that expected, then 2 options:
+If the number of blocks mined from your bet is greater than or equal to that expected, then 2 options :
 1. You press the button - and get your 80% back.
 ![exemple](img/tresorofhill.png)
 2. You run out of time and / or someone overbid before you get your money back, the game distributes your bet and re-starts a game with the new player's bet.
