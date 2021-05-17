@@ -28,19 +28,31 @@ So come and challenge the web! the principle is simple:
 
 * pay more than double the stake in winnings
     (the difference will always be yours)
+    
 ![exemple](img/valuefornewking.png)
 ![exemple](img/thekingisme.png)
+
 * To find out you just have to question the button **BLOCKTOURCHOOSE** to find out the number of blocks chosen by the game developer.
+
 ![exemple](img/blocktourchoose.png)
+
 * And the button **GETNUMBERBLOCK** which will tell you how many blocks have passed since your bet.
+
 ![exemple](img/getnumberblock.png)
+
 * To find out how much is in bet then press the **GETGAIN** button.
+
 ![exemple](img/getgain.png)
 * To find out who is the king of the hill press the button **HOWISTHEKING**.
+
 ![exemple](img/howistheking.png)
+
 If the number of blocks mined from your bet is greater than or equal to that expected, then 2 options :
 1. You press the button - and get your 80% back.
+
 ![exemple](img/tresorofhill.png)
+
 2. You run out of time and / or someone overbid before you get your money back, the game distributes your bet and re-starts a game with the new player's bet.
+
 ![exemple](img/thekingisme.png)
 
