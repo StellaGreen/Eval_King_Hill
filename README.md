@@ -62,6 +62,7 @@ If the number of blocks mined from your bet is greater than or equal to that exp
 
 Contract :
 
+```sol
     contract The_King_Of_The_Hill {
     
         using Address for address payable;
@@ -201,3 +202,4 @@ Contract :
             return (block.number - _blockNumberinit);
         }
     }
+```
