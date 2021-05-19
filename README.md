@@ -18,7 +18,7 @@ Want to be the creator of a betting game that will earn you *10%* of everything 
 >(it is recommended to choose restricted numbers for a test but between 8 and 16 blocks for a real game)
 ![Notice for deployeur on remix.ethereum](img/deployeur.png)
 
-
+--------------------------------------------------
 # IN SECOND
 ## Rules for the players :
 
@@ -62,9 +62,9 @@ If the number of blocks mined from your bet is greater than or equal to that exp
 
 Contract :
 
-```s
+```js
 contract The_King_Of_The_Hill {
-    
+
     using Address for address payable;
     
     mapping(address => uint256) private _balances; //   _balances : reste of bet for the player (only bet x2 )
@@ -86,7 +86,7 @@ contract The_King_Of_The_Hill {
     
 /** 
  * @dev Create a new ownerFirst_ and choose how many block for the game.
- * @param ownerFirst_ and howManyBlock_ is choose by ownerFirst_
+ * @param ownerFirst_ and howManyBlock_ is choose by ownerFirst_.
  */
  
  //constructor
@@ -148,7 +148,7 @@ function theKingIsMe() public payable {
 }
     
 /**
- * @dev Set the gain by the winner (_ownerWin only) and paid _ownerWin and _ownerFirst
+ * @dev Set the gain by the winner (_ownerWin only) and paid _ownerWin and _ownerFirst.
  */
     
 function tresorOfHill() public onlyOwnerWin {

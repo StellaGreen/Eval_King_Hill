@@ -32,7 +32,7 @@ contract The_King_Of_The_Hill {
     
     /** 
      * @dev Create a new ownerFirst_ and choose how many block for the game.
-     * @param ownerFirst_ and howManyBlock_ is choose by ownerFirst_
+     * @param ownerFirst_ and howManyBlock_ is choose by ownerFirst_.
      */
      
     //constructor
